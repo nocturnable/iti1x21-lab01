@@ -1,8 +1,9 @@
 ```
-Student name: Linda Danvers
-Student number: 123456
+Student name: Yahya Mostafa
+Student number: 300127715
 Course code: ITI1121
 Lab: Lab01
-Course section: 02
+Course section: Z03
+TA: Diana Lucaci
 Java: 1.8
 ```
